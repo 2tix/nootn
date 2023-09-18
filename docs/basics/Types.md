@@ -25,10 +25,6 @@ b: float = 3.14
 c: complex = 3, 4
 ```
 
-<script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 Where `c: complex = n, m` defines the number $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 ```nootn
