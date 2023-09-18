@@ -29,7 +29,7 @@ Here the `sqrt` function is used to calculate the square root of the sum of the 
 If you define a variable with the `name = value` syntax you can always change its value later. However, if you want to make a variable immutable (i.e. you can't change its value later) you can use the `const name = value` syntax. For example, the following program defines an immutable variable named `A` (in Nootn the convention is to name constants in capital letters) and assigns it the value `3`:
 ```nootn
 const A = 3
-A = 4 # This will cause an error
+A = 4 // This will cause an error
 ```
 
 In the next tutorial, we will learn all types of variables there are in Nootn.
